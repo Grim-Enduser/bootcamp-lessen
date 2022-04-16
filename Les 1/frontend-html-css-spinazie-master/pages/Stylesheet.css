@@ -1,0 +1,59 @@
+h2 {
+background: black;
+color: white;
+}
+
+div {
+}
+/*type selector <div*/
+
+
+.container {
+}
+/*class selector <div class*/
+
+#container{
+}
+/*Id selector <div id="idname"*/
+/*mag er maar één van zijn*/
+
+/*
+Child selector*/
+li > a {
+}
+
+/*
+Descendant selector*/
+article a {
+}
+
+/*
+adjacent sibling*/
+button + button{
+
+}
+
+/*general sibling*/
+
+/* * is alles (heel algemeen)*/
+
+/*meest specifieke style regel wint*/
+
+/*CSS box model*/
+
+/*css reset*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*Margin afstand verdelen tussen elementen zodat die gelijk zijn*/
+/*
+Margin top en margin bottom*/
+
+/*
+position absolute vs relative*/
+
+/*multiple class selector*/
